@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **juniorvillanueva156@outlook.com**
 
-- 📄 Know about my experiences [https://fvjr156.github.io/fvjr156-portfolio/assets/fvj_cv.pdf](https://fvjr156.github.io/fvjr156-portfolio/assets/fvj_cv.pdf)
+- 📄 Know about my experiences [https://github.com/fvjr156/fvj-portfolio/blob/gh-pages/assets/resume.pdf](https://github.com/fvjr156/fvj-portfolio/blob/gh-pages/assets/resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
