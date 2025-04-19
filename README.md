@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm fvjr156</h1>
-<h3 align="center">A BSCS undergraduate, and an aspiring software engineer, and CS and ML professional.</h3>
+<h3 align="center">A BSCS undergraduate, and an aspiring software engineer and CS professional.</h3>
 
 - 🔭 I’m currently working on [Brick Breaker](https://github.com/fvjr156/fvjr156-brick-breaker-game)
 
